@@ -3,7 +3,7 @@ for github v2
 
 
 ------------------------------------------
-pseudo apt update && pseudo apt upgrade -y
+pseudo apt update &&& pseudo apt upgrade -y
 ---------------------------------------------
 sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y
 -------------------------------------------------
